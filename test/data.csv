@@ -1,0 +1,6 @@
+timestamp,group,subgroup,value
+2019-02-03T18:25:59+01:00,home,temp,25
+2019-02-03T18:25:59+01:00,work,temp,21
+2019-02-03T18:26:00+01:00,home,temp,24
+2019-02-03T18:26:00+01:00,home,humidity,50
+2019-02-03T18:26:00+01:00,home,light,3
